@@ -131,3 +131,21 @@ footer {
     margin-top: 2em;
     font-size: 0.9em;
 }
+.activities-list {
+    list-style: none;
+    padding: 0;
+}
+
+.activities-list li {
+    margin-bottom: 1em;
+}
+
+.activities-list li a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-size: 1.2em;
+}
+
+.activities-list li a:hover {
+    text-decoration: underline;
+}
